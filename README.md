@@ -3,7 +3,7 @@
 ![Issues](https://img.shields.io/github/issues/Drawethree/UltraPrisonCore?label=Issues&logo=GitHub)
 ![Discord](https://img.shields.io/discord/505846258867372033?label=Discord&logo=Discord)
 
-**UltraPrisonCore** is a an **ultimate solution** for your prison server. This core contains **everything** that should be on each prison server. By including **18 Custom Enchants**, **Auto-Sell**, **Auto-Miner** region, **Tokens & Gems** currencies, **Ranks & Prestiges**, **Multipliers** and a lot of more, its one of the **best prison cores** on the market.
+**UltraPrisonCore** is an **ultimate solution** for your prison server. This core contains **everything** that should be on each prison server. By including **18 Custom Enchants**, **Auto-Sell**, **Auto-Miner** region, **Tokens & Gems** currencies, **Ranks & Prestiges**, **Multipliers** and a lot of more, its one of the **best prison cores** on the market.
 
 # Pages
 ### General
