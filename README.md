@@ -30,6 +30,7 @@
 * [FAQ](https://github.com/Drawethree/UltraPrisonCore/wiki/Frequently-Asked-Questions)
 ### For Developers
 * [Developer API](https://github.com/Drawethree/UltraPrisonCore/wiki/Developer-API)
+* [Creating Custom Enchants](https://github.com/Drawethree/UltraPrisonCore/wiki/Creating-Custom-Enchants)
 
 # Screenshots
 ![Image1](https://imgur.com/kjV0J0q.png)
