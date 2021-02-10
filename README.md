@@ -11,7 +11,7 @@
 * [Features](https://github.com/Drawethree/UltraPrisonCore/wiki/Features)
 * [Setup](https://github.com/Drawethree/UltraPrisonCore/wiki/Setup)
 * [Commands & Permissions](https://github.com/Drawethree/UltraPrisonCore/wiki/Commands-&-Permissions)
-* [PAPI Placeholders](https://github.com/Drawethree/UltraPrisonCore/wiki/PAPI-Placeholders)
+* [Placeholders](https://github.com/Drawethree/UltraPrisonCore/wiki/Placeholders)
 * [Terms Of Service](https://github.com/Drawethree/UltraPrisonCore/wiki/Terms-Of-Service)
 ### Default Files
 * [_config.yml_](https://github.com/Drawethree/UltraPrisonCore/wiki/config.yml)
