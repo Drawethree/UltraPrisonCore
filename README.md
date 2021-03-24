@@ -24,6 +24,7 @@
 * [_ranks.yml_](https://github.com/Drawethree/UltraPrisonCore/wiki/ranks.yml)
 * [_tokens.yml_](https://github.com/Drawethree/UltraPrisonCore/wiki/tokens.yml)
 * [_pickaxe-levels.yml_](https://github.com/Drawethree/UltraPrisonCore/wiki/pickaxe-levels.yml)
+* [_gangs.yml_](https://github.com/Drawethree/UltraPrisonCore/wiki/gangs.yml)
 
 
 
