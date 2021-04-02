@@ -13,6 +13,7 @@
 * [Commands & Permissions](https://github.com/Drawethree/UltraPrisonCore/wiki/Commands-&-Permissions)
 * [Placeholders](https://github.com/Drawethree/UltraPrisonCore/wiki/Placeholders)
 * [Terms Of Service](https://github.com/Drawethree/UltraPrisonCore/wiki/Terms-Of-Service)
+* [EULA](https://github.com/Drawethree/UltraPrisonCore/wiki/EULA)
 ### Default Files
 * [_config.yml_](https://github.com/Drawethree/UltraPrisonCore/wiki/config.yml)
 * [_autominer.yml_](https://github.com/Drawethree/UltraPrisonCore/wiki/autominer.yml)
